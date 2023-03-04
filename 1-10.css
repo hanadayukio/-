@@ -6,7 +6,6 @@
 
 header {
     height: 50px;
-    width: 960px;
     background-color: #ff9a4b;
 }
 
@@ -63,7 +62,6 @@ main {
 
 footer {
     height: 50px;
-    width: 960px;
     background-color: #aaa;
 }
 
